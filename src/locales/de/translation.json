@@ -1,0 +1,190 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "properties": "Immobilien",
+        "myBookings": "Meine Buchungen",
+        "history": "Verlauf",
+        "connectWallet": "Wallet Verbinden",
+        "switchToHosting": "Zum Hosting Wechseln"
+    },
+    "hero": {
+        "badge": "Dezentrale Vermietungsplattform",
+        "title": "Dezentrale",
+        "titleHighlight": "Ferienvermietungen",
+        "subtitle": "Buchen Sie einzigartige Unterkünfte direkt bei Gastgebern mit Smart Contracts auf der Stacks Blockchain. Keine Vermittler, niedrigere Gebühren und vollständige Transparenz.",
+        "exploreButton": "Immobilien Erkunden",
+        "learnButton": "Mehr Erfahren",
+        "node1Title": "Verbinden",
+        "node1Subtitle": "Sichere Brieftasche",
+        "node2Title": "Entdecken",
+        "node2Subtitle": "Häuser Finden",
+        "node3Title": "Sichern",
+        "node3Subtitle": "Intelligente Verträge",
+        "node4Title": "Global",
+        "node4Subtitle": "Überall",
+        "stats": {
+            "properties": "Immobilien",
+            "countries": "Länder",
+            "satisfaction": "Zufriedenheit"
+        }
+    },
+    "footer": {
+        "tagline": "Dezentrales Wohnen",
+        "description": "Dezentrale Ferienvermietungen auf der Stacks Blockchain. Buchen Sie einzigartige Unterkünfte mit vollständiger Transparenz.",
+        "platform": "Plattform",
+        "browseProperties": "Immobilien Durchsuchen",
+        "aboutUs": "Über Uns",
+        "howItWorks": "Wie Es Funktioniert",
+        "faq": "FAQ",
+        "support": "Unterstützung",
+        "helpCenter": "Hilfezentrum",
+        "contactUs": "Kontaktieren Sie Uns",
+        "privacy": "Datenschutz",
+        "terms": "Nutzungsbedingungen",
+        "connect": "Verbinden",
+        "copyright": "© 2025 StackNStay. Alle Rechte vorbehalten.",
+        "builtOn": "Gebaut auf",
+        "blockchain": "Stacks Blockchain"
+    },
+    "ai": {
+        "tooltip": "KI-Assistent Fragen",
+        "subtitle": "Sofortige Hilfe Erhalten"
+    },
+    "common": {
+        "scrollToTop": "Nach Oben Scrollen",
+        "loading": "Laden...",
+        "error": "Fehler",
+        "tryAgain": "Erneut Versuchen",
+        "property": "Immobilie",
+        "properties_one": "Immobilie",
+        "properties_other": "Immobilien"
+    },
+    "pages": {
+        "index": {
+            "ctaTitle": "Bereit loszulegen?",
+            "ctaSubtitle": "Schließen Sie sich Tausenden von Nutzern an, die bereits die Zukunft der Ferienvermietung erleben",
+            "ctaButton": "Alle Unterkünfte anzeigen"
+        },
+        "properties": {
+            "title": "Immobilien Erkunden",
+            "subtitle": "Entdecken Sie verifizierte Mieträume aus der ganzen Welt",
+            "errorLoading": "Fehler beim Laden der Immobilien",
+            "showingResults": "Zeige {{count}} von {{total}} Immobilien",
+            "available": "Verfügbar",
+            "filteredFrom": "Gefiltert aus {{total}} verifizierten Angeboten",
+            "verifiedListings": "Verifizierte Angebote auf der Blockchain",
+            "loadMore": "Mehr Immobilien Laden"
+        },
+        "profile": {
+            "title": "Benutzerkonto",
+            "stats": {
+                "trips": "Reisen Unternommen",
+                "listings": "Immobilien Gelistet",
+                "joined": "Beigetreten",
+                "verified": "Verifiziert"
+            },
+            "achievements": "Erfolge",
+            "reviews": "Bewertungen",
+            "noReviews": "Noch keine Bewertungen",
+            "avgRating": "Durchschnittliche Bewertung",
+            "totalReviews": "Gesamtbewertungen"
+        },
+        "history": {
+            "title": "Buchungsverlauf",
+            "subtitle": "Sehen und verwalten Sie Ihre Buchungen",
+            "noBookings": "Noch keine Buchungen",
+            "status": {
+                "confirmed": "Bestätigt",
+                "completed": "Abgeschlossen",
+                "cancelled": "Storniert",
+                "pending": "Ausstehend"
+            }
+        },
+        "propertyDetail": {
+            "bookNow": "Jetzt Buchen",
+            "checkIn": "Check-in",
+            "checkOut": "Check-out",
+            "guests": "Gäste",
+            "amenities": "Ausstattung",
+            "location": "Standort",
+            "reviews": "Bewertungen",
+            "host": "Gastgeber",
+            "pricePerNight": "pro Nacht"
+        },
+        "notFound": {
+            "title": "Seite Nicht Gefunden",
+            "message": "Die gesuchte Seite existiert nicht.",
+            "backHome": "Zurück zur Startseite"
+        },
+        "host": {
+            "dashboard": {
+                "title": "Gastgeber-Dashboard",
+                "earnings": "Gesamteinnahmen",
+                "bookings": "Aktive Buchungen",
+                "properties": "Immobilien",
+                "rating": "Bewertung",
+                "price": "Preis pro Nacht",
+                "guests": "Max. Gäste",
+                "bedrooms": "Schlafzimmer",
+                "bathrooms": "Badezimmer"
+            }
+        }
+    },
+    "howItWorks": {
+        "badge": "Nahtloses Erlebnis",
+        "title": "Wie Es",
+        "titleHighlight": "Funktioniert",
+        "subtitle": "Erleben Sie die Zukunft der Ferienvermietung mit blockchain-gestützter Sicherheit und transparenten Transaktionen",
+        "step1": {
+            "title": "Wallet Verbinden",
+            "description": "Verbinden Sie Ihre Stacks Wallet, um auf der Plattform zu beginnen",
+            "badge": "Wallet Integration"
+        },
+        "step2": {
+            "title": "Immobilie Auswählen",
+            "description": "Durchsuchen und buchen Sie einzigartige Unterkünfte mit vollständiger Transparenz",
+            "badge": "Smart Listing"
+        },
+        "step3": {
+            "title": "Zahlung Absichern",
+            "description": "Smart Contracts sichern Ihre Zahlung bis zur Bestätigung ab",
+            "badge": "Sichere Zahlung"
+        },
+        "step4": {
+            "title": "Genießen & Bewerten",
+            "description": "Erleben Sie Ihren Aufenthalt und hinterlassen Sie eine verifizierte Bewertung",
+            "badge": "Geprüfter Host"
+        }
+    },
+    "baseContent": {
+        "title": "Vermietungen Neu",
+        "titleHighlight": "Definieren im Digitalzeitalter",
+        "subtitle": "Wir haben den Lärm beseitigt, um uns auf das Wesentliche zu konzentrieren: direkte, vertrauenslose Verbindungen zwischen Gastgebern und Gästen. Erleben Sie die Freiheit dezentralen Wohnens.",
+        "fee1Title": "Keine Vermittlungsgebühren",
+        "fee1Description": "Behalten Sie mehr von dem, was Sie verdienen.",
+        "fee2Title": "100% Transparenz",
+        "fee2Description": "Unveränderliche On-Chain-Aufzeichnungen.",
+        "startHosting": "Mit dem Hosting beginnen"
+    },
+    "kindWords": {
+        "title": "Von unserer Community vertraut",
+        "subtitle": "Echte Erfahrungen von echten Benutzern in unserem dezentralen Mietkosystem"
+    },
+    "wallet": {
+        "connected": "Verbunden",
+        "copyAddress": "Adresse Kopieren",
+        "copied": "Kopiert!"
+    },
+    "userMenu": {
+        "myProfile": "Mein Profil",
+        "disconnectWallet": "Wallet Trennen"
+    },
+    "testimonials": {
+        "sarah": "Buchen mit STX war unglaublich reibungslos. Keine Währungsumrechnungsgebühren und das Smart-Contract-Treuhandkonto gaben mir totale Sicherheit.",
+        "kwame": "Endlich eine Plattform, die die Privatsphäre respektiert. Ich liebe es, dass ich ein Ferienhaus direkt von meiner Brieftasche aus buchen kann, ohne umständliche Prozesse.",
+        "wei": "Die Transparenz ist unvergleichlich. Die Möglichkeit, die Immobilienverlauf in der Blockchain vor der Buchung zu sehen, machte mich viel sicherer.",
+        "elena": "Als Host werden sofort nach dem Check-in bezahlt zu werden, ohne wochenlang auf Bankübertragungen zu warten, ist ein Spielwechsel. StackNStay ist die Zukunft.",
+        "david": "Nahtlose Erfahrung von Anfang bis Ende. Das dezentralisierte Bewertungssystem fühlt sich viel authentischer an als andere Plattformen.",
+        "priya": "Anfangs war ich skeptisch gegenüber Kryptowährung-Vermietungen, aber die Benutzeroberfläche ist so intuitiv. Es war wie eine normale Buchungs-App, aber besser."
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "properties": "Propiedades",
+        "myBookings": "Mis Reservas",
+        "history": "Historial",
+        "connectWallet": "Conectar Billetera",
+        "switchToHosting": "Cambiar a Anfitrión"
+    },
+    "hero": {
+        "badge": "Plataforma de Alquiler Descentralizada",
+        "title": "Alquileres Vacacionales",
+        "titleHighlight": "Descentralizados",
+        "subtitle": "Reserva alojamientos únicos directamente con anfitriones usando contratos inteligentes en la cadena de bloques Stacks. Sin intermediarios, tarifas más bajas y transparencia completa.",
+        "exploreButton": "Explorar Propiedades",
+        "learnButton": "Más Información",
+        "node1Title": "Conectar",
+        "node1Subtitle": "Billetera Segura",
+        "node2Title": "Descubrir",
+        "node2Subtitle": "Encontrar Hogares",
+        "node3Title": "Asegurar",
+        "node3Subtitle": "Contratos Inteligentes",
+        "node4Title": "Global",
+        "node4Subtitle": "En Cualquier Lugar",
+        "stats": {
+            "properties": "Propiedades",
+            "countries": "Países",
+            "satisfaction": "Satisfacción"
+        }
+    },
+    "features": {
+        "badge": "¿Por Qué Elegir StacksStay?",
+        "title": "Libertad",
+        "titleHighlight": "Descentralizada",
+        "subtitle": "Experimenta el futuro del alquiler de propiedades con nuestra plataforma impulsada por blockchain. Segura, transparente y creada para todos.",
+        "instant": {
+            "badge": "Configuración Instantánea",
+            "title": "Reserva Instantánea",
+            "description": "Conecta tu billetera y reserva propiedades al instante. Sin intermediarios, sin retrasos, solo transacciones peer-to-peer sin fricción."
+        },
+        "fees": {
+            "badge": "Tarifas Bajas",
+            "title": "Tarifas Mínimas",
+            "description": "Olvídate de las tarifas de plataforma exorbitantes. Paga solo una tarifa de protocolo del 2% por cada reserva exitosa, sin cargos ocultos."
+        },
+        "global": {
+            "badge": "Acceso Global",
+            "title": "Viajes sin Fronteras",
+            "description": "Accede a propiedades de todo el mundo con estándares de calidad consistentes y reseñas verificadas en la cadena de bloques."
+        }
+    },
+    "howItWorks": {
+        "badge": "Experiencia fluida",
+        "title": "Cómo",
+        "titleHighlight": "Funciona",
+        "subtitle": "Experimenta el futuro de las reservas de propiedades en cuatro sencillos pasos.",
+        "step1": {
+            "title": "Conectar Cartera",
+            "description": "Vincula tu cartera Stacks para acceder a la plataforma. No se requiere correo electrónico.",
+            "badge": "Inicio Seguro"
+        },
+        "step2": {
+            "title": "Buscar y Reservar",
+            "description": "Encuentra tu estancia perfecta y reserva al instante con tarifas mínimas.",
+            "badge": "Búsqueda Instantánea"
+        },
+        "step3": {
+            "title": "Depósito Inteligente",
+            "description": "Los fondos se mantienen de forma segura en un contrato inteligente hasta el check-in.",
+            "badge": "Protegido"
+        },
+        "step4": {
+            "title": "Disfruta y Valora",
+            "description": "El pago se libera automáticamente. Deja una reseña verificada en la cadena.",
+            "badge": "Gana Recompensas"
+        }
+    },
+    "faq": {
+        "title": "Preguntas Frecuentes",
+        "subtitle": "Todo lo que necesitas saber sobre tarifas, soporte y cómo funciona StacksStay.",
+        "q1": {
+            "question": "¿Cuáles son las tarifas de la plataforma?",
+            "answer": "StacksStay cobra una tarifa de plataforma mínima del 2% en todas las reservas. Esto es significativamente menor que las plataformas tradicionales (15-20%) porque nuestros contratos inteligentes automatizan el proceso, eliminando intermediarios costosos. Ejemplo: Para una reserva de 5,000 STX, la tarifa es de solo 100 STX."
+        },
+        "q2": {
+            "question": "Mi transacción está pendiente para siempre",
+            "answer": "Verifica el explorador de blockchain de Stacks con tu ID de transacción. Las transacciones generalmente se confirman dentro de 10-30 minutos dependiendo de la congestión de la red."
+        },
+        "q3": {
+            "question": "No tengo suficiente STX",
+            "answer": "Necesitas suficiente STX para cubrir el costo de la reserva más una pequeña tarifa de transacción (~0.1 STX). Puedes comprar más STX en exchanges como Coinbase, Binance o Kraken."
+        },
+        "q4": {
+            "question": "El anfitrión no responde",
+            "answer": "Los anfitriones tienen 24 horas para responder. Si no hay respuesta, puedes cancelar para un reembolso completo (si quedan más de 7 días antes del check-in)."
+        },
+        "q5": {
+            "question": "La propiedad no coincide con el anuncio",
+            "answer": "Toma fotos y abre una disputa inmediatamente a través de la plataforma. Un administrador revisará tu caso y determinará un porcentaje de reembolso justo basado en la evidencia."
+        }
+    },
+    "testimonials": {
+        "title": "Lo Que Dicen Nuestros Usuarios",
+        "subtitle": "Experiencias reales de nuestra comunidad"
+    },
+    "footer": {
+        "tagline": "Vida Descentralizada",
+        "description": "Alquileres vacacionales descentralizados en la cadena de bloques Stacks. Reserva alojamientos únicos con transparencia completa.",
+        "platform": "Plataforma",
+        "browseProperties": "Explorar Propiedades",
+        "aboutUs": "Acerca de Nosotros",
+        "howItWorks": "Cómo Funciona",
+        "faq": "Preguntas Frecuentes",
+        "support": "Soporte",
+        "helpCenter": "Centro de Ayuda",
+        "contactUs": "Contáctanos",
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Servicio",
+        "connect": "Conectar",
+        "copyright": "© 2025 StackNStay. Todos los derechos reservados.",
+        "builtOn": "Construido en",
+        "blockchain": "Cadena de Bloques Stacks"
+    },
+    "ai": {
+        "tooltip": "Preguntar al Asistente de IA",
+        "subtitle": "Obtén ayuda instantánea"
+    },
+    "common": {
+        "scrollToTop": "Desplazarse hacia arriba",
+        "loading": "Cargando...",
+        "error": "Error",
+        "tryAgain": "Intentar de Nuevo",
+        "property": "Propiedad",
+        "properties_one": "Propiedad",
+        "properties_other": "Propiedades"
+    },
+    "pages": {
+        "index": {
+            "ctaTitle": "¿Listo para comenzar?",
+            "ctaSubtitle": "Únete a miles de usuarios que ya experimentan el futuro del alquiler de propiedades",
+            "ctaButton": "Ver Todas las Propiedades"
+        },
+        "properties": {
+            "title": "Explorar Propiedades",
+            "subtitle": "Descubre espacios de alquiler verificados de todo el mundo",
+            "errorLoading": "Error al cargar propiedades",
+            "showingResults": "Mostrando {{count}} de {{total}} propiedades",
+            "available": "Disponible",
+            "filteredFrom": "Filtrado de {{total}} anuncios verificados",
+            "verifiedListings": "Anuncios verificados en la blockchain",
+            "loadMore": "Cargar Más Propiedades"
+        },
+        "profile": {
+            "title": "Cuenta de Usuario",
+            "stats": {
+                "trips": "Viajes Realizados",
+                "listings": "Propiedades Listadas",
+                "joined": "Se Unió",
+                "verified": "Verificado"
+            },
+            "achievements": "Logros",
+            "reviews": "Reseñas",
+            "noReviews": "Sin reseñas aún",
+            "avgRating": "Calificación Promedio",
+            "totalReviews": "Total de Reseñas"
+        },
+        "history": {
+            "title": "Historial de Reservas",
+            "subtitle": "Ver y administrar tus reservas",
+            "noBookings": "Sin reservas aún",
+            "status": {
+                "confirmed": "Confirmado",
+                "completed": "Completado",
+                "cancelled": "Cancelado",
+                "pending": "Pendiente"
+            }
+        },
+        "propertyDetail": {
+            "bookNow": "Reservar Ahora",
+            "checkIn": "Check-in",
+            "checkOut": "Check-out",
+            "guests": "Huéspedes",
+            "amenities": "Comodidades",
+            "location": "Ubicación",
+            "reviews": "Reseñas",
+            "host": "Anfitrión",
+            "pricePerNight": "por noche"
+        },
+        "notFound": {
+            "title": "Página No Encontrada",
+            "message": "La página que buscas no existe.",
+            "backHome": "Volver al Inicio"
+        },
+        "host": {
+            "dashboard": {
+                "title": "Panel de Control del Anfitrión",
+                "earnings": "Ganancias Totales",
+                "bookings": "Reservas Activas",
+                "properties": "Propiedades",
+                "rating": "Calificación"
+            },
+            "createListing": {
+                "title": "Crear Nuevo Anuncio",
+                "basicInfo": "Información Básica",
+                "propertyDetails": "Detalles de la Propiedad",
+                "amenities": "Comodidades",
+                "photos": "Fotos",
+                "pricing": "Precios",
+                "submit": "Crear Anuncio",
+                "fields": {
+                    "title": "Título de la Propiedad",
+                    "description": "Descripción",
+                    "location": "Ubicación",
+                    "price": "Precio por Noche",
+                    "guests": "Máximo de Huéspedes",
+                    "bedrooms": "Dormitorios",
+                    "bathrooms": "Baños"
+                }
+            }
+        }
+    },
+    "baseContent": {
+        "title": "Redefiniendo Alquileres",
+        "titleHighlight": "en la Era Digital",
+        "subtitle": "Hemos eliminado el ruido para enfocarnos en lo que importa: conexiones directas y sin confianza entre anfitriones e invitados. Experimenta la libertad de la vida descentralizada.",
+        "fee1Title": "Sin Comisiones de Intermediario",
+        "fee1Description": "Conserva más de lo que ganas.",
+        "fee2Title": "100% Transparencia",
+        "fee2Description": "Registros inmutables en la cadena.",
+        "startHosting": "Comenzar a Alojar"
+    },
+    "kindWords": {
+        "title": "Confiado por Nuestra Comunidad",
+        "subtitle": "Experiencias reales de usuarios reales en nuestro ecosistema de alquiler descentralizado"
+    },
+    "wallet": {
+        "connected": "Conectado",
+        "copyAddress": "Copiar Dirección",
+        "copied": "¡Copiado!"
+    },
+    "userMenu": {
+        "myProfile": "Mi Perfil",
+        "disconnectWallet": "Desconectar Billetera"
+    },
+    "testimonials": {
+        "sarah": "Reservar con STX fue increíblemente suave. Sin comisiones de conversión de moneda, y el depósito de contrato inteligente me dio total tranquilidad.",
+        "kwame": "Finalmente, una plataforma que respeta la privacidad. Me encanta poder reservar una casa de vacaciones directamente desde mi billetera sin saltar obstáculos.",
+        "wei": "La transparencia no tiene igual. Poder ver el historial de la propiedad en cadena antes de reservar me hizo sentir mucho más seguro.",
+        "elena": "Como anfitrión, recibir el pago instantáneamente después del check-in sin esperar semanas para transferencias bancarias es un cambio de juego. StackNStay es el futuro.",
+        "david": "Experiencia perfecta de principio a fin. El sistema de reseñas descentralizado se siente mucho más auténtico que otras plataformas.",
+        "priya": "Al principio, era escéptico sobre los alquileres de criptomonedas, pero la interfaz de usuario es tan intuitiva. Se sintió como una aplicación de reserva normal, pero mejor."
+    }
+}

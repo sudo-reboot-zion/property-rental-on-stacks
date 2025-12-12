@@ -1,0 +1,253 @@
+{
+    "nav": {
+        "home": "Hem",
+        "properties": "Fastigheter",
+        "myBookings": "Mina Bokningar",
+        "history": "Historik",
+        "connectWallet": "Anslut Plånbok",
+        "switchToHosting": "Växla till Värdskap"
+    },
+    "hero": {
+        "badge": "Decentraliserad Uthyrningsplattform",
+        "title": "Decentraliserade",
+        "titleHighlight": "Semesterbostäder",
+        "subtitle": "Boka unika vistelser direkt med värdar med hjälp av smarta kontrakt på Stacks-blockkedjor. Inga mellanhänder, lägre avgifter och fullständig transparens.",
+        "exploreButton": "Utforska Fastigheter",
+        "learnButton": "Läs Mer",
+        "node1Title": "Anslut",
+        "node1Subtitle": "Säker Plånbok",
+        "node2Title": "Upptäck",
+        "node2Subtitle": "Hitta Hem",
+        "node3Title": "Säker",
+        "node3Subtitle": "Smarta Kontrakt",
+        "node4Title": "Global",
+        "node4Subtitle": "Överallt",
+        "stats": {
+            "properties": "Fastigheter",
+            "countries": "Länder",
+            "satisfaction": "Tillfredsställelse"
+        }
+    },
+    "features": {
+        "badge": "Varför Välja StacksStay?",
+        "title": "Decentraliserad",
+        "titleHighlight": "Frihet",
+        "subtitle": "Upplev framtiden för fastighetsuthyrning med vår blockkedjedriven plattform. Säker, transparent och byggd för alla.",
+        "instant": {
+            "badge": "Omedelbar Installation",
+            "title": "Omedelbar Bokning",
+            "description": "Anslut din plånbok och boka fastigheter direkt. Inga mellanhänder, ingen försening, bara sömlösa peer-to-peer-transaktioner."
+        },
+        "fees": {
+            "badge": "Lägre Avgifter",
+            "title": "Minimala Avgifter",
+            "description": "Säg farväl till höga plattformsavgifter. Betala bara en 2% protokolavgift per framgångsrik bokning, utan dolda avgifter."
+        },
+        "global": {
+            "badge": "Global Åtkomst",
+            "title": "Gränslös Resor",
+            "description": "Få åtkomst till fastigheter från hela världen med konsekventa kvalitetsstandarder och verifierade recensioner lagrade i kedjan."
+        }
+    },
+    "howItWorks": {
+        "badge": "Sömlös Upplevelse",
+        "title": "Hur Det",
+        "titleHighlight": "Fungerar",
+        "subtitle": "Upplev framtidens bokning av boenden i fyra enkla steg.",
+        "step1": {
+            "title": "Anslut Plånbok",
+            "description": "Koppla din Stacks-plånbok för att få åtkomst till plattformen. Ingen e-post krävs.",
+            "badge": "Säker Inloggning"
+        },
+        "step2": {
+            "title": "Bläddra & Boka",
+            "description": "Hitta ditt perfekta boende och boka direkt med minimala avgifter.",
+            "badge": "Omgående Sök"
+        },
+        "step3": {
+            "title": "Smart Depå",
+            "description": "Medel hålls säkert i ett smart kontrakt tills du checkar in.",
+            "badge": "Skyddad"
+        },
+        "step4": {
+            "title": "Njut & Recensera",
+            "description": "Betalning släpps automatiskt. Lämna en verifierad on-chain-recension.",
+            "badge": "Tjäna Belöningar"
+        }
+    },
+    "faq": {
+        "title": "Vanliga Frågor",
+        "subtitle": "Allt du behöver veta om avgifter, support och hur StacksStay fungerar.",
+        "q1": {
+            "question": "Vilka är plattformens avgifter?",
+            "answer": "StacksStay tar en minimal 2% plattformsavgift på alla bokningar. Detta är betydligt lägre än traditionella plattformar (15-20%) eftersom våra smarta kontrakt automatiserar processen och eliminerar dyra mellanhänder. Exempel: För en bokning på 5 000 STX är avgiften endast 100 STX."
+        },
+        "q2": {
+            "question": "Min transaktion väntar för alltid",
+            "answer": "Kontrollera Stacks-blockkedjeutforskaren med ditt transaktions-ID. Transaktioner bekräftas vanligtvis inom 10-30 minuter beroende på nätverksöverbelastning."
+        },
+        "q3": {
+            "question": "Jag har inte tillräckligt med STX",
+            "answer": "Du behöver tillräckligt med STX för att täcka bokningskostnaden plus en liten transaktionsavgift (~0,1 STX). Du kan köpa mer STX på börser som Coinbase, Binance eller Kraken."
+        },
+        "q4": {
+            "question": "Värden svarar inte",
+            "answer": "Värdar har 24 timmar på sig att svara. Om det inte finns något svar kan du avboka för full återbetalning (om mer än 7 dagar före incheckning)."
+        },
+        "q5": {
+            "question": "Fastigheten matchar inte annonsen",
+            "answer": "Ta foton och öppna en tvist omedelbar via plattformen. En administratör granskar ditt fall och bestämmer en rimlig återbetalningsprocent baserat på bevisen."
+        }
+    },
+    "testimonials": {
+        "title": "Vad Våra Användare Säger",
+        "subtitle": "Verkliga erfarenheter från vår gemenskap"
+    },
+    "footer": {
+        "tagline": "Decentraliserad Boendet",
+        "description": "Decentraliserade semesterbostäder på Stacks-blockkedjor. Boka unika vistelser med fullständig transparens.",
+        "platform": "Plattform",
+        "browseProperties": "Utforska Fastigheter",
+        "aboutUs": "Om Oss",
+        "howItWorks": "Hur Det Fungerar",
+        "faq": "Vanliga Frågor",
+        "support": "Support",
+        "helpCenter": "Hjälpcenter",
+        "contactUs": "Kontakta Oss",
+        "privacy": "Sekretesspolicy",
+        "terms": "Användarvillkor",
+        "connect": "Anslut",
+        "copyright": "© 2025 StackNStay. Alla rättigheter förbehållna.",
+        "builtOn": "Byggt på",
+        "blockchain": "Stacks Blockchain"
+    },
+    "ai": {
+        "tooltip": "Fråga AI-assistenten",
+        "subtitle": "Få omedelbar hjälp"
+    },
+    "common": {
+        "scrollToTop": "Bläddra till toppen",
+        "loading": "Laddar...",
+        "error": "Fel",
+        "tryAgain": "Försök Igen",
+        "property": "Fastighet",
+        "properties_one": "Fastighet",
+        "properties_other": "Fastigheter"
+    },
+    "pages": {
+        "index": {
+            "ctaTitle": "Redo att komma igång?",
+            "ctaSubtitle": "Gå med i tusentals användare som redan upplever framtidens fastighetsuthyrning",
+            "ctaButton": "Visa Alla Fastigheter"
+        },
+        "properties": {
+            "title": "Utforska Fastigheter",
+            "subtitle": "Upptäck verifierade uthyrningsutrymmen från hela världen",
+            "errorLoading": "Fel vid inladdning av fastigheter",
+            "showingResults": "Visar {{count}} av {{total}} fastigheter",
+            "available": "Tillgänglig",
+            "filteredFrom": "Filtrerad från {{total}} verifierade listningar",
+            "verifiedListings": "Verifierade listningar på blockkedjor",
+            "loadMore": "Ladda Fler Fastigheter"
+        },
+        "profile": {
+            "title": "Användarkonto",
+            "stats": {
+                "trips": "Resor Tagna",
+                "listings": "Fastigheter Listade",
+                "joined": "Gick Med",
+                "verified": "Verifierad"
+            },
+            "achievements": "Prestationer",
+            "reviews": "Recensioner",
+            "noReviews": "Ingen recensioner ännu",
+            "avgRating": "Genomsnittlig Betyg",
+            "totalReviews": "Totalt Recensioner"
+        },
+        "history": {
+            "title": "Bokningshistorik",
+            "subtitle": "Visa och hantera dina bokningar",
+            "noBookings": "Ingen bokningar ännu",
+            "status": {
+                "confirmed": "Bekräftad",
+                "completed": "Slutförd",
+                "cancelled": "Annullerad",
+                "pending": "Väntande"
+            }
+        },
+        "propertyDetail": {
+            "bookNow": "Boka Nu",
+            "checkIn": "Incheckning",
+            "checkOut": "Utcheckning",
+            "guests": "Gäster",
+            "amenities": "Bekvämligheter",
+            "location": "Plats",
+            "reviews": "Recensioner",
+            "host": "Värd",
+            "pricePerNight": "per natt"
+        },
+        "notFound": {
+            "title": "Sidan Hittades Inte",
+            "message": "Sidan du söker finns inte.",
+            "backHome": "Tillbaka till Hem"
+        },
+        "host": {
+            "dashboard": {
+                "title": "Värds Instrumentpanel",
+                "earnings": "Total Inkomst",
+                "bookings": "Aktiva Bokningar",
+                "properties": "Fastigheter",
+                "rating": "Betyg"
+            },
+            "createListing": {
+                "title": "Skapa Ny Listning",
+                "basicInfo": "Grundläggande Information",
+                "propertyDetails": "Fastighetsinformation",
+                "amenities": "Bekvämligheter",
+                "photos": "Foton",
+                "pricing": "Prissättning",
+                "submit": "Skapa Listning",
+                "fields": {
+                    "title": "Fastighetstitel",
+                    "description": "Beskrivning",
+                    "location": "Plats",
+                    "price": "Pris per Natt",
+                    "guests": "Max Gäster",
+                    "bedrooms": "Sovrum",
+                    "bathrooms": "Badrum"
+                }
+            }
+        }
+    },
+    "baseContent": {
+        "title": "Omdefiniera Uthyrningar",
+        "titleHighlight": "i den Digitala Ålder",
+        "subtitle": "Vi har tagit bort bullret för att fokusera på det som spelar roll: direkta, tillitsbaserade förbindelser mellan värdar och gäster. Upplev friheten i decentraliserad boendet.",
+        "fee1Title": "Ingen Mellanhändsgebyr",
+        "fee1Description": "Behåll mer av det du tjänar.",
+        "fee2Title": "100% Transparens",
+        "fee2Description": "Oföränderliga on-chain-register.",
+        "startHosting": "Börja Vara Värd"
+    },
+    "kindWords": {
+        "title": "Betrott av Vår Gemenskap",
+        "subtitle": "Verkliga erfarenheter från verkliga användare i vårt decentraliserade uthyrningstecosystem"
+    },
+    "wallet": {
+        "connected": "Ansluten",
+        "copyAddress": "Kopiera Adress",
+        "copied": "Kopierad!"
+    },
+    "userMenu": {
+        "myProfile": "Min Profil",
+        "disconnectWallet": "Koppla Från Plånbok"
+    },
+    "testimonials": {
+        "sarah": "Bokning med STX var otroligt smidig. Inga valutaomräkningsavgifter och depositionskontraktet gav mig total sinnesfrid.",
+        "kwame": "Äntligen en plattform som respekterar integriteten. Jag älskar att jag kan boka en semesterbostäder direkt från min plånbok utan att gå igenom krångliga processer.",
+        "wei": "Transparensen är oöverträffad. Att kunna se fastighetshistoriken på kedjan innan bokningen gjorde mig mycket säkrare.",
+        "elena": "Som värd att få betalt omedelbar vid incheckning utan att vänta veckor på banköverföringar är en game changer. StackNStay är framtiden.",
+        "david": "Sömlös upplevelse från början till slut. Det decentraliserade recensionssystemet känns mycket mer autentiskt än andra plattformar.",
+        "priya": "Jag var skeptisk till kryptobokningar till en början, men användargränssnittet är så intuitivt. Det kändes precis som en vanlig bokningsapp, men bättre."
+    }
+}

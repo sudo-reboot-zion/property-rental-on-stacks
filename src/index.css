@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital,wght@0,400..700;1,400..700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 158 28% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 158 28% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 158 28% 15%;
+
+    --primary: 158 64% 25%;
+    --primary-foreground: 0 0% 100%;
+
+    --primary-light: 158 54% 35%;
+    --primary-glow: 158 74% 45%;
+
+    --secondary: 42 88% 62%;
+    --secondary-foreground: 158 28% 15%;
+
+    --accent: 42 78% 55%;
+    --accent-foreground: 158 28% 15%;
+    --accent-light: 42 98% 72%;
+
+    --muted: 158 12% 96%;
+    --muted-foreground: 158 12% 45%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 158 12% 88%;
+    --input: 158 12% 88%;
+    --ring: 158 64% 25%;
+
+    --radius: 0.75rem;
+
+    --gradient-hero: linear-gradient(135deg, hsl(158 64% 25%) 0%, hsl(158 74% 35%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(42 88% 62%) 0%, hsl(42 98% 72%) 100%);
+    --gradient-overlay: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
+
+    --shadow-elegant: 0 10px 40px -10px hsl(158 64% 25% / 0.2);
+    --shadow-glow: 0 0 60px hsl(42 88% 62% / 0.3);
+    --shadow-lift: 0 20px 60px -15px hsl(158 64% 25% / 0.3);
+
+    --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  .dark {
+    --background: 158 28% 8%;
+    --foreground: 0 0% 98%;
+
+    --card: 158 28% 12%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 158 28% 12%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 158 64% 45%;
+    --primary-foreground: 0 0% 100%;
+
+    --primary-light: 158 54% 55%;
+    --primary-glow: 158 74% 65%;
+
+    --secondary: 42 88% 62%;
+    --secondary-foreground: 158 28% 8%;
+
+    --accent: 42 78% 65%;
+    --accent-foreground: 158 28% 8%;
+    --accent-light: 42 98% 82%;
+
+    --muted: 158 28% 18%;
+    --muted-foreground: 158 12% 65%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 158 28% 18%;
+    --input: 158 28% 18%;
+    --ring: 158 64% 45%;
+
+    --gradient-hero: linear-gradient(135deg, hsl(158 64% 35%) 0%, hsl(158 74% 45%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(42 88% 62%) 0%, hsl(42 98% 72%) 100%);
+
+    --shadow-elegant: 0 10px 40px -10px hsl(0 0% 0% / 0.5);
+    --shadow-glow: 0 0 60px hsl(42 88% 62% / 0.2);
+    --shadow-lift: 0 20px 60px -15px hsl(0 0% 0% / 0.6);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv11", "ss01";
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in {
+    animation: fade-in 0.6s ease-out forwards;
+  }
+
+  .animate-slide-up {
+    animation: slide-up 0.8s ease-out forwards;
+  }
+
+  .animate-scale-in {
+    animation: scale-in 0.5s ease-out forwards;
+  }
+
+  .gradient-hero {
+    background: var(--gradient-hero);
+  }
+
+  .gradient-accent {
+    background: var(--gradient-accent);
+  }
+
+  .shadow-elegant {
+    box-shadow: var(--shadow-elegant);
+  }
+
+  .shadow-glow {
+    box-shadow: var(--shadow-glow);
+  }
+
+  .shadow-lift {
+    box-shadow: var(--shadow-lift);
+  }
+
+  .transition-smooth {
+    transition: var(--transition-smooth);
+  }
+
+  .transition-bounce {
+    transition: var(--transition-bounce);
+  }
+
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  .clip-path-hexagon {
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
+}

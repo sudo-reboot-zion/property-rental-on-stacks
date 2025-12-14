@@ -25,7 +25,7 @@ const MyBookings = () => {
     const { data: currentBlockHeight = 0 } = useQuery({
         queryKey: ['block-height'],
         queryFn: getCurrentBlockHeight,
-        refetchInterval: 60000,
+        refetchInterval: 10000, // Check every 10 seconds (approx 1 block time)
     });
 
     const {

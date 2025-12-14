@@ -127,7 +127,10 @@ export function BookingActions({ booking, currentBlockHeight, onSuccess }: Booki
 
                     // Refresh badges to show newly earned First Booking badge
                     console.log('🎖️ Refreshing badges after payment release...');
-                    await refetchBadges();
+                    // Add a small delay to allow indexer to catch up
+                    setTimeout(async () => {
+                        await refetchBadges();
+                    }, 3000);
 
                     onSuccess?.();
                     setIsProcessing(false);
